@@ -106,3 +106,4 @@ eof
         ```bash
         set GEMINI_API_KEY="YOUR_SECRET_API_KEY_HERE"
         
+
